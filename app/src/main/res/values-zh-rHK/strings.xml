@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">行山徑</string>
+    <string name="title_activity_detail_info">行山徑</string>
+    <string name="large_text">test</string>
+    <string name="action_settings">test</string>
+</resources>
